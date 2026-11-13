@@ -1,0 +1,4 @@
+Cluster,Segment,n_customers,pct_customers,R_median,F_median,M_median,M_mean,M_total,revenue_share_pct,R_score_mean,F_score_mean,M_score_mean,RFM_score_mean,top_country
+1,Champions,305,30.5,26.0,10.0,3444.39,9493.52731147541,2895525.83,85.81,4.026229508196721,4.639344262295082,4.60327868852459,13.268852459016394,United Kingdom
+0,Potential,375,37.5,60.0,3.0,679.7,785.1201866666667,294420.07,8.73,3.538666666666667,2.592,2.5893333333333333,8.72,United Kingdom
+2,Lost,320,32.0,429.5,1.0,328.105,576.1734375,184375.5,5.46,1.390625,1.915625,1.953125,5.259375,United Kingdom

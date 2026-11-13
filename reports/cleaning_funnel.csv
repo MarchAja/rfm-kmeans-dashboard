@@ -1,0 +1,8 @@
+step,before,removed,remaining
+Data awal (setelah parsing),1067371,0,1067371
+Duplikat persis,1067371,34335,1033036
+Invoice C/A,1033036,19110,1013926
+Quantity <= 0,1013926,3393,1010533
+UnitPrice <= 0,1010533,2621,1007912
+CustomerID kosong,1007912,228487,779425
+StockCode non-produk,779425,2846,776579

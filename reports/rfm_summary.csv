@@ -1,0 +1,3 @@
+dataset,customers,recency_median,frequency_median,monetary_median,monetary_mean,monetary_total
+populasi,5852,95.0,3.0,856.02,2916.71,17068582.72
+sampel,1000,92.0,3.0,892.16,3374.32,3374321.4
