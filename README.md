@@ -5,6 +5,17 @@ Proyek analisis segmentasi customer untuk dataset **Online Retail II**
 perhitungan **RFM**, clustering **KMeans** (k=3), hingga dashboard
 interaktif berbasis **Streamlit**.
 
+**🔗 Repository:** <https://github.com/MarchAja/rfm-kmeans-dashboard>
+
+Clone proyek ini:
+
+```bash
+git clone https://github.com/MarchAja/rfm-kmeans-dashboard.git
+cd rfm-kmeans-dashboard
+```
+
+Lalu lanjut ke bagian *Persiapan lingkungan* dan *Cara cepat*.
+
 ## 📊 Hasil utama
 
 | Segmen | Customer | % | R median | F median | M median | Revenue share |
