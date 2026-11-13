@@ -16,6 +16,8 @@ cd rfm-kmeans-dashboard
 
 Lalu lanjut ke bagian *Persiapan lingkungan* dan *Cara cepat*.
 
+**🌐 Dashboard online:** <TODO_DEPLOY_URL>
+
 ## 📊 Hasil utama
 
 | Segmen | Customer | % | R median | F median | M median | Revenue share |
